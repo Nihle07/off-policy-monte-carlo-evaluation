@@ -1,6 +1,0 @@
-# Original notebook imports; original package versions are not recorded.
-numpy
-pandas
-matplotlib
-scipy
-jupyter
